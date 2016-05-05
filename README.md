@@ -1,2 +1,2 @@
 # IT-Ebook-Download
-A shell script to download books from it-ebooks.info
+The shell script is used for downloading books from it-ebooks.info
